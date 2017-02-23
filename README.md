@@ -4,7 +4,7 @@ Silkroad Online Emulator for Open Beta Client
 ### Requirements
 - Visual Studio 2015
 - Microsoft SQL Server 2008 or above
-- Asio 1.10.6 for SCore (our AsyncTimer uses asio)
+- Asio 1.10.6 for SCore (our AsyncTimer uses asio | http://think-async.com/)
 
 ### How To Setup Server
 - Restore database dumps
